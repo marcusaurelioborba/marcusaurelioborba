@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hello! Welcome to my Github profile.
 
-<!--
-**marcusaurelioborba/marcusaurelioborba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Marcus Aurélio!
 
-Here are some ideas to get you started:
+#### Mobile Developer, systems analysis and development student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👦 About me 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-aurélio-borba-2129b01ba/)](https://www.linkedin.com/in/marcus-aurélio-borba-2129b01ba/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:marcusaurelioborba@gmail.com)](mailto:marcusaurelioborba@gmail.com)
+
+## :computer: Languages | Framework 
+
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30" height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30" height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="30" height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30" height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30" height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30" height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/></code>
+
+## :clock12: Database | Tools
+
+<code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  width="70" height="20"/></code>
+<code><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" width="70" height="20"/></code>
+
+
+## Status
+
+<div>
+<a href="https://github.com/marcusaurelio13">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusaurelio13&layout=compact&langs_count=7&theme=dracula"/>
